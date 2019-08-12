@@ -69,7 +69,7 @@ https://github.com/googlesamples/android-Camera2Video
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 License
 -------
 
